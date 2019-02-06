@@ -1,0 +1,14 @@
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\Brandon\Desktop\CreateDB\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\bhaak\Desktop\CS480_P4\P4\CreateDB\CreateDB\obj\Debug\CreateDB.pdb
